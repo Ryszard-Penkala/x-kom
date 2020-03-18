@@ -81,7 +81,7 @@ body{
 }
 
 .magnifying-button{
-    background-image: url(img/search.png);
+    background-image: url("img/search.png");
     filter: invert(1);
     background-repeat: no-repeat;
     background-size: 27px;
