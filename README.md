@@ -1,2 +1,2 @@
 # x-kom
-Webpage created with pure HTML & CSS. This page was created based on the real webpage: https://www.x-kom.pl/
+My very first webpage wrote with HTML & CSS. This page was created based on the real webpage: https://www.x-kom.pl/
